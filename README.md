@@ -22,7 +22,7 @@
        |  |   |  |
        |  |   |  |
       /   )   (   \
-     Ooooo     ooooO   ```
+     Ooooo     ooooO 
 
 
 LinkedIn: linkedin.com/in/cortezxm
