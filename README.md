@@ -1,6 +1,6 @@
 # Manuel Cortez Muñoz
 
-        |||||||||
+<!--    |||||||||
         | _   _ |      
        (  ' _ '  )
         |  ___  |
@@ -22,7 +22,7 @@
        |  |   |  |
        |  |   |  |
       /   )   (   \
-     Ooooo     ooooO
+     Ooooo     ooooO        -->
 
 ## Contact
 - LinkedIn: linkedin.com/in/cortezxm
