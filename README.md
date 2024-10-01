@@ -1,4 +1,5 @@
-# Manuel Cortez Muñoz - CS Student
+# Hi there!
+## Manuel Cortez Muñoz - CS Student
 ```
         |||||||||
         | _   _ |      
@@ -25,4 +26,4 @@
      Ooooo     ooooO 
 
 ```
-# LinkedIn: linkedin.com/in/cortezxm
+## LinkedIn: linkedin.com/in/cortezxm
