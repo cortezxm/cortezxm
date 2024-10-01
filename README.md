@@ -25,4 +25,4 @@
      Ooooo     ooooO 
 
 
-LinkedIn: linkedin.com/in/cortezxm
+# LinkedIn: linkedin.com/in/cortezxm
