@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**cortezxm/cortezxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Manuel Cortez Muñoz
 
-Here are some ideas to get you started:
+        |||||||||
+        | _   _ |      
+       (  ' _ '  )
+        |  ___  |
+         |_____|                   
+  _______/     \_______         
+ /                     \          
+|   |\             /|   |
+|   ||  .       .  ||   |     
+|   / \           / \   |
+\  |   | |_ | _| |   |  /     
+|==|   | |_ | _| |   |==|
+/  /_ _|_|__|__|_|_ _\  \
+|___| /            \|___|
+      |     |      |
+      |     |      |
+      | MEX |  MEX |         
+      |     |      |           
+      "|""|"""|""|""           
+       |  |   |  |
+       |  |   |  |
+      /   )   (   \
+     Ooooo     ooooO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: linkedin.com/in/cortezxm
