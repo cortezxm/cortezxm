@@ -44,7 +44,7 @@ I’m currently working on my degree, machine learning projects. My focus areas 
 - Training both my models and myself (life’s about balance, right?).
 
 ## Skills & Tools
-- **Languages**: Python, JavaScript, SQL
+- **Languages**: Python, C, C++, C#, Java, JavaScript
 - **Frameworks**: TensorFlow, Keras, OpenCV, Librosa
 - **Tech**: Machine Learning, Deep Learning, Transfer Learning, Computer Vision, Audio Processing
 - **Tools**: Git, Docker, Jupyter Notebooks, and maybe a pair of boxing gloves
