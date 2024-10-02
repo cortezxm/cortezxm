@@ -1,4 +1,5 @@
 # Manuel Cortez
+I’m a **Computer Science** student.
 ```
             |||||||||                         .__________________________.
             | _   _ |                         | .___________________. |==|
@@ -25,8 +26,6 @@
          Ooooo     ooooO 
 
 ```
-I’m a **Computer Science** student.
-
 ## Professional Summary
 I’m currently working on my degree, machine learning projects. My focus areas include **machine learning**, **audio signal processing**, and **computer vision**. I believe in results, whether it’s reducing error rates in a neural network or improving my personal best time on a 5K run.
 
