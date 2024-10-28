@@ -47,7 +47,7 @@ I’m currently working on my degree, machine learning projects. My focus areas 
 - **Languages**: Python, C, C++, C#, Java, JavaScript
 - **Frameworks**: TensorFlow, Keras, OpenCV, Librosa
 - **Tech**: Machine Learning, Deep Learning, Transfer Learning, Computer Vision, Audio Processing
-- **Tools**: Git, Docker, Jupyter Notebooks, and maybe a pair of boxing gloves
+- **Tools**: Git, Docker, Jupyter Notebooks.
 
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/cortezxm)
