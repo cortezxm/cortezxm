@@ -27,13 +27,7 @@ I’m a **Computer Science** student.
 
 ```
 ## Professional Summary
-I’m currently working on my degree, machine learning projects.
-
-## Skills & Tools
-- **Languages**: Python, C, C++, C#, Java, JavaScript
-- **Frameworks**: TensorFlow, Keras, OpenCV, Librosa
-- **Tech**: Machine Learning, Deep Learning, Transfer Learning, Computer Vision, Audio Processing
-- **Tools**: Git, Docker, Jupyter Notebooks.
+I’m currently working on my degree.
 
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/cortezxm)
