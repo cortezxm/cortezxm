@@ -27,13 +27,7 @@ I’m a **Computer Science** student.
 
 ```
 ## Professional Summary
-I’m currently working on my degree, machine learning projects. My focus areas include **machine learning**, **computer vision** and **data analysis**. 
-
-## Skills
-- **Machine Learning**
-- **Computer Vision**
-- **Web Development**
-- **Sports Analytics**: Data doesn’t lie, unlike some players on the field.
+I’m currently working on my degree, machine learning projects.
 
 ## Skills & Tools
 - **Languages**: Python, C, C++, C#, Java, JavaScript
