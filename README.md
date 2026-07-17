@@ -1,5 +1,6 @@
 # Manuel Cortez
-I’m a **Computer Science** ~~student~~.```
+I’m a **Computer Science** ~~student~~.
+```
 
             |||||||||                         .__________________________.
             | _   _ |                         | .___________________. |==|
