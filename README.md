@@ -27,7 +27,7 @@ I’m a **Computer Science** student.
 
 ```
 ## Professional Summary
-I’m currently working on my degree.
+I’m currently NOT working on my degree.
 
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/cortezxm)
